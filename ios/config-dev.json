@@ -1,0 +1,6 @@
+{
+  "schemaVersion": 1,
+  "faceMatchThreshold": 10.0,
+  "updatedAt": "2026-10-02",
+  "note": "BERKAS UJI (build dev di HP owner saja). Penguji TestFlight & karyawan TIDAK membaca berkas ini -- mereka membaca config.json. Silakan coba angka sebebasnya di sini. Rentang sah 4.0-20.0; di luar itu diabaikan, aplikasi pakai 10.0."
+}
