@@ -1,0 +1,6 @@
+{
+  "schemaVersion": 1,
+  "faceMatchThreshold": 10.0,
+  "updatedAt": "2026-10-02",
+  "note": "faceMatchThreshold: jarak maksimum agar wajah dianggap cocok. TURUN = lebih ketat (risiko karyawan asli ditolak). NAIK = lebih longgar (risiko orang lain lolos absen). Rentang sah 4.0-20.0; di luar itu aplikasi memakai nilai bawaan 10.0. Bawaan = 10.0."
+}
